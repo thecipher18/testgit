@@ -6,4 +6,4 @@ def function(x):
     print(x)
 
 print("Result: ")
-function(100)
+function(10000)
