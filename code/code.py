@@ -6,3 +6,4 @@ def function(x):
     print(x)
 
 function(10)
+function(1)
