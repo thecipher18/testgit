@@ -5,6 +5,5 @@ def function(x):
         x -= 1
     print(x)
 
-function(10)
-function(1)
-function(100)
+print("Result: ")
+function(99)
