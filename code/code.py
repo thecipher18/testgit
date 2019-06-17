@@ -7,3 +7,4 @@ def function(x):
 
 function(10)
 function(1)
+function(100)
